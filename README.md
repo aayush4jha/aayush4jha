@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on MERN stack projects<br>🌱 I’m currently exploring Machine Learning<br>📫 Reach me at aayush4jha@gmail.com
 
 
